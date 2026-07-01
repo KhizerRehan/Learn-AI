@@ -24,6 +24,10 @@ Point:
 - Steps write down (agent what is following)
 - Routines/Cron job (set in paperclip)
 
+
+## Article:
+- https://x.com/codewith_ahsan/status/2069441327087943790
+
 ---
 
 
